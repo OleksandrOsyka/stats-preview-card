@@ -26,5 +26,5 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/OsykaOleksandr/stats-preview-card)
-- Live Site URL: [Live URL](https://osykaoleksandr.github.io/stats-preview-card/)
+- Live Site URL: [Live URL](https://oleksandrosyka.github.io/stats-preview-card/)
 
